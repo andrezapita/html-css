@@ -1,0 +1,31 @@
+@charset "UTF-8";
+>
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100px;
+}
+body
+{
+background-image: -moz-linear-gradient(to top
+    #463859 #021140 #2D55A6 #50C4F2 #F2D335);
+}
+
+main{
+    background-color:white ;
+width: 600px;
+padding: 10px;
+margin:auto
+box-shadow: 10px 10px 10px #000;
+}
+
+h2{
+    color: #000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    color: #000;
+}
+p{
+    text-align:justify;
+}
+
